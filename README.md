@@ -34,4 +34,9 @@ A fully responsive clone of the official Microsoft homepage built using HTML, CS
 - **Add animations or transitions with GSAP or CSS**
 
 - **Use a framework like React for dynamic rendering (optional)**
-- 
+
+
+## 📌 Acknowledgments
+- **Inspired by the official Microsoft.com**
+
+- **Images and content are used for educational purposes only**
