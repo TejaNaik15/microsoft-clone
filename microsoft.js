@@ -1,4 +1,4 @@
-console.log("This is a Microsoft clone created by Vishal");
+console.log("This is a Microsoft clone created by Teja");
 
 let i = 0;
 function gototop() {
